@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react';
 import Head from 'next/head';
 import AnimatedText from '@/components/animatedText';
-import Layout from '@/components/layout';
+import Layout from '@/components/Layout';
 import Image from 'next/image';
 import profilePic from '../../public/images/profile/option2.jpeg';
 import { motion, spring, useInView, useMotionValue, useSpring } from 'framer-motion';

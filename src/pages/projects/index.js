@@ -1,7 +1,7 @@
 import React from 'react';
 import Head from 'next/head';
 import AnimatedText from '@/components/animatedText';
-import Layout from '@/components/layout';
+import Layout from '@/components/Layout';
 import { GithubIcon } from '@/components/Icons';
 import Link from 'next/link';
 import Image from 'next/image';
