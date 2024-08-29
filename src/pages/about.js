@@ -58,10 +58,10 @@ const about = () => {
                                 This exposure has honed my ability to wear multiple hats, adapt quickly, and contribute meaningfully to rapidly evolving projects.
 
                             </p>
-                            <p className='font-medium'>
-                            Beyond the world of code, I'm an accomplished calisthenics athlete. 
-                            Mastering advanced skills like the front lever, human flag, and muscle-ups has instilled in me a sense of discipline and commitment to a healthy lifestyle. 
-                            This passion even influenced my final year dissertation project: <Link className='underline' href="https://github.com/Avazbek2002/Personal-Calisthenics-Assistant-Mobile-Application">Personal Calisthenics Mobile Application</Link>.
+                            <p className="font-medium">
+                                Beyond the world of code, I&apos;m an accomplished calisthenics athlete. 
+                                Mastering advanced skills like the front lever, human flag, and muscle-ups has instilled in me a sense of discipline and commitment to a healthy lifestyle. 
+                                This passion even influenced my final year dissertation project: <Link className="underline" href="https://github.com/Avazbek2002/Personal-Calisthenics-Assistant-Mobile-Application">Personal Calisthenics Mobile Application</Link>.
                             </p>
                         </div>
                         <div className='col-span-3 relative h-max rounded-2xl border-2 border-solid border-dark bg-light p-8'>

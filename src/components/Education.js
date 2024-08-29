@@ -62,7 +62,7 @@ const Education = () => {
                     info={
                         [
                             "Studied how neural networks work and build it from scratch",
-                            <Link href="https://www.coursera.org/account/accomplishments/certificate/8LUND2W7PTFS" className="underline">Link to the certificate: Coursera</Link>
+                            <Link key="coursera-link" href="https://www.coursera.org/account/accomplishments/certificate/8LUND2W7PTFS" className="underline">Link to the certificate: Coursera</Link>
                         ]
                     }
                 />
