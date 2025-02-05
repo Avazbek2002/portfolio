@@ -23,7 +23,7 @@ export default function Home() {
             <div className='w-1/2 flex flex-col items-center self-center'>
               <AnimatedText text="Turning Ideas Into Reality With Code And Design." className='!text-6xl text-left'/>
               <p className='my-4 text-base font-medium'>
-              Innovative software engineer and Warwick graduate with a passion for tech startups and AI, combining expertise in web and mobile development with an entrepreneurial mindset to create cutting-edge solutions.
+              Innovative software engineer and Warwick graduate with a passion for tech AI and startups, combining expertise in ML engineering, and web and mobile development with an entrepreneurial mindset to create cutting-edge solutions.
               </p>
               <div className='flex items-center self-start mt-2'>
                 <Link href="/resume.pdf" target={"_blank"} className='flex items-center bg-dark text-light p-2.5 px-6
